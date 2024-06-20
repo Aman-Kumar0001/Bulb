@@ -1,4 +1,4 @@
-function toggleBulb() {
+function Bulb() {
     let img1 = document.getElementById('img1');
     let img2 = document.getElementById('img2');
 
